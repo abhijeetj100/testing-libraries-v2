@@ -1,4 +1,4 @@
-# testing-libraries-v2
+# testinglibrariesv2
 
 ## Project setup
 ```
